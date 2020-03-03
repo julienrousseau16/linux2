@@ -1,17 +1,29 @@
-julien@julien-Lenovo-ideapad-530S-15IKB:~/quetes/shell/planets/real$ tree
+julien@julien-Lenovo-ideapad-530S-15IKB:~/quetes/shell/planets$ tree
 .
-├── gas-giants
-│   ├── jupiter.jpeg
-│   ├── neptune.jpeg
-│   ├── saturn.jpeg
-│   └── uranus.jpeg
-└── telluric
-    ├── earth.jpeg
-    ├── mars.jpeg
-    ├── mercury.jpeg
-    └── venus.jpeg
+├── fictional
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   └── cybertron.jpeg
+├── inhabited
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   ├── cybertron.jpeg
+│   └── earth.jpeg
+└── real
+    ├── gas-giants
+    │   ├── jupiter.jpeg
+    │   ├── neptune.jpeg
+    │   ├── saturn.jpeg
+    │   └── uranus.jpeg
+    └── telluric
+        ├── earth.jpeg
+        ├── mars.jpeg
+        ├── mercury.jpeg
+        └── venus.jpeg
 
-2 directories, 8 files
+5 directories, 15 files
+julien@julien-Lenovo-ideapad-530S-15IKB:~/quetes/shell/planets$ 
+
 
 
 wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
