@@ -1,8 +1,0 @@
-  258  grep "Toulouse,2019,PHP" wilders.csv > php_france_2019.csv
-  259  grep "France,2019,PHP" wilders.csv > php_france_2019.csv
-  260  grep Biarritz wilders.csv > biarritz.csv
-  261  grep JavaScript biarritz.csv > biarritzjs.csv
-  262  grep Toulouse wilders.csv > toulouse.csv
-  263  grep JavaScript toulouse.csv > toulousejs.csv
-  264  cat biarritzjs.csv toulousejs.csv > javascript_biarritz_toulouse.csv
-  265  history > histo.txt
